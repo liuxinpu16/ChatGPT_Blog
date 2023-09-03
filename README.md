@@ -2,4 +2,4 @@
 
 Deployed to:
 https://chat-gpt-blog-lemon.vercel.app (vercel have 10s api runtime limit therefore the generation will timeout),
-user the version deployed to: https://chat-gpt-blog-ffo42.ondigitalocean.app/
+use the version deployed to: https://chat-gpt-blog-ffo42.ondigitalocean.app/
